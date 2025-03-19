@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\bweng\source\repos\Project3-Lunar Lander\main.cpp(126,23): warning C4018: '<': signed/unsigned mismatch
+  Project3-Lunar Lander.vcxproj -> C:\Users\bweng\source\repos\Project3-Lunar Lander\Debug\Project3-Lunar Lander.exe
